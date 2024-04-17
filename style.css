@@ -42,6 +42,14 @@ body {
     color: white;
 }
 
+.navigation-icons:hover {
+    cursor: pointer;
+}
+
+#i2 {
+    cursor: pointer;
+}
+
 /* #icon1 {
     color: rgb(0, 95, 107);
     opacity: 55%;
