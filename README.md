@@ -1,2 +1,1 @@
-YouTube Clone Project 
-GitHub
+This is a clone of YouTube. This project was something to develop my skills as a web developer. The goal was to able to build a copy of YouTube and keep the quality as high as possible. Most of the channels and videos
